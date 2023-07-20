@@ -1,0 +1,192 @@
+
+@media only screen and (max-width: 420px) {
+    .logo-container {
+        padding-left: 50%;
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .logo-container img {
+      margin-right: 0;
+      margin-bottom: 10px;
+    }
+  
+    .logo-container p {
+      font-size: 30px;
+    }
+  
+    .nav-container {
+      flex-direction: column;
+    }
+  
+    .nav-links {
+      margin-top: 20px;
+    }
+  
+    
+}
+
+@media only screen and (max-width: 425px) {
+    .logo-container {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .logo-container img {
+      padding-top: 10px;
+      margin-left: 0;
+    }
+    .res{
+      grid-template-rows: repeat(1fr);
+    }
+  
+.folo {
+    padding-top: 5%;
+    display: flex;
+  }
+    .logo-container p {
+      font-size: 30px;
+    }
+  
+    .nav-links {
+      margin-top: 20px;
+    }
+  
+    .follow-us {
+      padding-left: 0;
+      margin-top: 20px;
+    }
+  
+    .folo a {
+      font-size: 24px;
+      margin-left: 0;
+    }
+  
+    .social-btn {
+      width: 100%;
+    }
+  
+    .btn {
+      width: 100%;
+    }
+  
+    .media {
+      width: 40px;
+      height: 20px;
+      padding-top: 5px;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    .banar {
+        margin-top: 80%;
+     flex-direction: column-reverse;
+     align-items: center;
+      
+    }
+  
+    .like {
+      padding: 0 20px;
+    }
+  
+    .ph {
+      font-size: 36px;
+    }
+  
+    .goat {
+      font-size: 36px;
+    }
+  
+    .play {
+      font-size: 16px;
+    }
+  
+    .sign,
+    .go {
+      font-size: 16px;
+      padding: 15px 30px;
+    }
+  
+   
+}
+
+@media only screen and (max-width: 425px) {
+    .group-1 {
+    
+      margin-top: 10px;
+    align-items: center;
+    }
+  
+    .group {
+        
+      max-width: 100%;
+      height: auto;
+    }
+  }
+  
+@media only screen and (max-width: 425px) {
+    .online { 
+        flex-direction: row-reverse;
+        margin-top: 90%;
+        justify-content: center;
+      flex-direction: column;
+      margin-left: 10px;
+
+  
+    }
+  
+    .are {
+flex-direction: column;
+    }
+  
+    .are h2 {
+      font-size: 32px;
+      line-height: 40px;
+      text-align: center;
+    }
+  
+    .an {
+      font-size: 14px;
+      line-height: 20px;
+      text-align: center;
+    }
+  
+    .know {
+      font-size: 18px;
+    }
+  
+    .our {
+      font-size: 16px;
+      line-height: 24px;
+      text-align: center;
+    }
+    .png4{
+        padding-left: 70%;
+    }
+    .fouth{
+        flex-direction: column;
+    }
+  }
+  @media only screen and (max-width: 425px) {
+
+
+.one{
+
+flex-direction: column-reverse;{
+justify-content: center;
+}
+.my{
+    padding-left: 70%;
+    width: 100%;
+}
+.no{
+    width: 100%;
+}
+}
+}
+@media only screen and (max-width: 425px) {
+    .bat{
+        flex-direction: row;
+        grid-template-rows: repeat(5,200px 150px);
+    }
+}
